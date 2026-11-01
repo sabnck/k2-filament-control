@@ -1,0 +1,11 @@
+state.json
+*.log
+__pycache__/
+*.pyc
+*.gcode
+*.3mf
+*.mp4
+*.mov
+*.avi
+*.zip
+
